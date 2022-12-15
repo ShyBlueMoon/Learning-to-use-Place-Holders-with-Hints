@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aprendendo a usar PlaceHolders</string>
+    <string name="qual_nome_pergunta_string">Qual o seu nome?</string>
+    <string name="digite_nome_aqui_string">Digite seu nome aqui...</string>
+    <string name="botao_salvar_string">Salvar</string>
+    <string name="nome_pessoa_string">Nome da pessoa aqui</string>
+    <string name="frase_especial_string">não esqueça que você é muito especial!</string>
+    <string name="err_sem_nome">Por favor, digite seu nome!</string>
+</resources>
